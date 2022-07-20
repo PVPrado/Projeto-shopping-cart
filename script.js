@@ -70,7 +70,7 @@ const removeAll = () => emptyCart.addEventListener('click', () => {
 const addItemToCart = async ({ target }) => {
  const sku = getSkuFromProductItem(target.parentNode);
  const item = await fetchItem(sku);
- const produto = createCartItemElement({ sku: item.id, name: item.title, salaPrice: item.price });
+ const produto = createCartItemElement({ sku: item.id, name: item.title, salePrice: item.price });
 
  cartList.appendChild(produto);
 };
