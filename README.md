@@ -11,7 +11,7 @@ Neste projeto, integro uma API do Mercado Livre e desenvolvo o frontend de uma l
 - Javascript
 - Html
 - Jest
-- Css (foi feito pela trybe)
+- Css (feito pela trybe)
 
 # Instalação
 
