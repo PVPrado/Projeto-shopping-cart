@@ -11,6 +11,7 @@ Neste projeto, integro uma API do Mercado Livre e desenvolvo o frontend de uma l
 - Javascript
 - Html
 - Jest
+- Css (foi feito pela trybe)
 
 # Instalação
 
@@ -35,6 +36,10 @@ npm install
 ```
 
 Após a instalação basta clicar com botão direito no arquivo index.html e selecionar "Open with Live Server" (Abrir com o Live Server) se você tiver a extensão Live Server instalada no VS Code. Caso você não tenha a extensão Live Server instalada, você pode simplesmente clicar com o botão direito no arquivo HTML e selecionar "Open with Default Browser" (Abrir com o Navegador Padrão). Isso abrirá o arquivo HTML no navegador padrão do seu sistema operacional.
+
+# Como usar
+
+Ao iniciar o aplicativo no navegador, ele verificará a disponibilidade da API. Se estiver online, será carregada uma lista de produtos. Você terá a opção de adicionar produtos ao carrinho, e para removê-los, basta clicar no item correspondente no carrinho.
 
 # Como testar
 
