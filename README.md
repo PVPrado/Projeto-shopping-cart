@@ -8,10 +8,10 @@ Neste projeto, integro uma API do Mercado Livre e desenvolvo o frontend de uma l
 
 # Ferramentas e tecnologias
 
-- Javascript
-- Html
-- Jest
-- Css (feito pela trybe)
+- Linguagem de programação: **Javascript**
+- Linguagem de marcação: **Html**
+- Framework: **Jest**
+- Linguagem de estilo: **Css** (feito pela trybe)
 
 # Instalação
 
